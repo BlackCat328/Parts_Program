@@ -1,0 +1,3 @@
+function coloring(para) {
+    
+}

@@ -1,0 +1,9 @@
+const a = { name: 'yill', age: 13 }
+a.name = 'tom' // 这种方式可改
+// a = { name: 'tom', age: 12 } // 这种方式不能改
+console.log(a)
+
+/* 
+    const不能变的是指针 指向的内存地址的这个方向 不能变
+    至于它指向的数据结构是不是可变的，就完全不能控制了
+*/

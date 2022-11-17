@@ -1,0 +1,4 @@
+Promise.resolve()
+.then(()=>{
+    log
+})
